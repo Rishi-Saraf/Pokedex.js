@@ -1,5 +1,5 @@
 # Pokedex.js
-  A CLI command line pokedex for pokemon go fans
+  A command line pokedex for pokemon go fans
   
 # Api-Used
   The api used is a pokemon go api from rapidApi.
